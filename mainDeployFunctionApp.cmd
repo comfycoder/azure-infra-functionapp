@@ -1,0 +1,1 @@
+pwsh -file ./mainDeployFunctionApp.ps1
